@@ -1,0 +1,34 @@
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.DataAccess.deps.json
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.DataAccess.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/ref/Northwind.DataAccess.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.DataAccess.pdb
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.csproj.AssemblyReference.cache
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.AssemblyInfoInputs.cache
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.AssemblyInfo.cs
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.csproj.CoreCompileInputs.cache
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/ref/Northwind.DataAccess.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.pdb
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Core.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.Entities.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Core.pdb
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.Entities.pdb
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.csproj.CopyComplete
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.DataAccess.deps.json
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.DataAccess.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/ref/Northwind.DataAccess.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.DataAccess.pdb
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Core.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.Entities.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Core.pdb
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/bin/Debug/net6.0/Northwind.Entities.pdb
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.csproj.AssemblyReference.cache
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.AssemblyInfoInputs.cache
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.AssemblyInfo.cs
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.csproj.CoreCompileInputs.cache
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.csproj.CopyComplete
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/ref/Northwind.DataAccess.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.DataAccess/obj/Debug/net6.0/Northwind.DataAccess.pdb

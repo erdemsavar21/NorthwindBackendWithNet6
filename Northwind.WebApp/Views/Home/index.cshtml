@@ -1,0 +1,31 @@
+@model Northwind.WebApp.Models.ProductListViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+    <div class="container">
+        <table class="table table-responsive">
+            <tr>
+                <th>Product No</th>
+                <th>Product Name</th>
+                <th>Category No</th>
+                <th>Unit Price</th>
+                <th>Units InStock</th>
+                <th></th>
+            </tr>
+            @foreach (var product in Model.Products)
+            {
+                <tr>
+                    <td>@product.ProductId</td>
+                    <td>@product.ProductName</td>
+                    <td>@product.CategoryId</td>
+                    <td>@product.UnitPrice</td>
+                    <td>@product.UnitsInStock</td>
+                </tr>
+            }
+        </table>
+   
+
+    </div>

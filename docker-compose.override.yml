@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  northwindsqldb:
+    container_name: northwindsqldb
+    volumes:
+      - ~/sqlvolume:/var/opt/mssql
+    ports:
+      - "1433:1433" 
+    environment:
+      SA_PASSWORD : "reallyStrongPwd123"
+      ACCEPT_EULA : "Y"
+      MSSQL_PID: Express
+  
+   
+  northwindwebapi:
+    container_name: northwindwebapi
+    ports:
+      - "80:80"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings: "Server=northwindsqldb; Initial Catalog=Northwind;User Id=sa; Password=reallyStrongPwd123"
+    depends_on:
+      - northwindsqldb
+    volumes:
+      - ${HOME}/.microsoft/usersecrets/:/root/.microsoft/usersecrets
+      - ${HOME}/.aspnet/https:/root/.aspnet/https/
+ 
+
+  northwindwebapp:
+    container_name: northwindwebapp
+    ports:
+      - "81:80"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    depends_on:
+      - northwindapigateway
+    volumes:
+      - ${HOME}/.microsoft/usersecrets/:/root/.microsoft/usersecrets
+      - ${HOME}/.aspnet/https:/root/.aspnet/https/
+
+
+  northwindapigateway:
+    container_name: northwindapigateway
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - northwindwebapi
+    ports:
+      - "5000:80"
+    volumes:
+      - ${HOME}/.microsoft/usersecrets/:/root/.microsoft/usersecrets
+      - ${HOME}/.aspnet/https:/root/.aspnet/https/
+
+

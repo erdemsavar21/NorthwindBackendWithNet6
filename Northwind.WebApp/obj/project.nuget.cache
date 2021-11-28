@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jv/m0wMoVUa0YPIv+wzkQpelPNDRfm0ZkWCW51BDaibh0927NQYiquy/BjMJDcewpGWccLLMBv57Lv90Ofn2aA==",
+  "success": true,
+  "projectFilePath": "/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.WebApp/Northwind.WebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/erdemsavar/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

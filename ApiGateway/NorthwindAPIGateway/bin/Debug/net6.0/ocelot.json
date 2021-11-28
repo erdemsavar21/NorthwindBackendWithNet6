@@ -1,0 +1,64 @@
+{
+    "Routes": [
+      {
+        "DownstreamPathTemplate": "/api/v1/auth/login",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "northwindwebapi",
+            "Port": "80"
+          }
+        ],
+        "UpstreamHttpMethod": [ "POST" ],
+        "UpstreamPathTemplate": "/auth/login"
+      },
+      {
+        "DownstreamPathTemplate": "/api/v1/auth/register",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "northwindwebapi",
+            "Port": "80"
+          }
+        ],
+        "UpstreamHttpMethod": [ "POST" ],
+        "UpstreamPathTemplate": "/auth/register"
+      },
+      {
+        "DownstreamPathTemplate": "/api/v1/Products",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "northwindwebapi",
+            "Port": "80"
+          }
+        ],
+        "UpstreamHttpMethod": [ "GET", "POST" ],
+        "UpstreamPathTemplate": "/Products"
+      },
+      {
+        "DownstreamPathTemplate": "/api/v1/Products/getlistwithname",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "northwindwebapi",
+            "Port": "80"
+          }
+        ],
+        "UpstreamHttpMethod": [ "GET" ],
+        "UpstreamPathTemplate": "/Products/getlistwithname"
+      },
+      {
+        "DownstreamPathTemplate": "/api/v1/Products/{productId}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "northwindwebapi",
+            "Port": "80"
+          }
+        ],
+        "UpstreamPathTemplate": "/Products/{productId}",
+        "UpstreamHttpMethod": [ "GET", "PATCH" ]
+      }
+    ]
+}

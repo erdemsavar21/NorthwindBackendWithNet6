@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/bipfV1L/Y8oAfBQ9ngHfscl3oAourvj7HkNnbRQeG8=",
+  "Source": "NorthwindAPIGateway",
+  "BasePath": "_content/NorthwindAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

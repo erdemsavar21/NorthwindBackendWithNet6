@@ -1,0 +1,31 @@
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.Business.deps.json
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.Business.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/ref/Northwind.Business.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.Business.pdb
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.csproj.AssemblyReference.cache
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.AssemblyInfoInputs.cache
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.AssemblyInfo.cs
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.csproj.CoreCompileInputs.cache
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/ref/Northwind.Business.dll
+/Users/erdemsavar/Documents/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.pdb
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.Business.deps.json
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.Business.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/ref/Northwind.Business.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.Business.pdb
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Core.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.DataAccess.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.Entities.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.Entities.pdb
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Northwind.DataAccess.pdb
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/bin/Debug/net6.0/Core.pdb
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.csproj.AssemblyReference.cache
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.AssemblyInfoInputs.cache
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.AssemblyInfo.cs
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.csproj.CoreCompileInputs.cache
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.csproj.CopyComplete
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/ref/Northwind.Business.dll
+/Users/erdemsavar/Documents/Software Projects/NorthwindBackend/Northwind.Business/obj/Debug/net6.0/Northwind.Business.pdb

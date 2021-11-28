@@ -1,0 +1,27 @@
+# Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP .NET Core service.
+
+version: '3.8'
+
+services:
+  northwindsqldb:
+    image: mcr.microsoft.com/mssql/server
+
+  northwindwebapi:
+    image: ${DOCKER_REGISTRY-}northwindwebapi
+    build:
+      context: .
+      dockerfile: Northwind.WebApi/Dockerfile
+  
+  northwindwebapp:
+    image: ${DOCKER_REGISTRY-}northwindwebapp
+    build:
+      context: .
+      dockerfile: Northwind.WebApp/Dockerfile
+
+  northwindapigateway:
+    image: ${DOCKER_REGISTRY-}northwindapigateway
+    build:
+      context: .
+      dockerfile: ApiGateway/NorthwindAPIGateway/Dockerfile
+
+ 
